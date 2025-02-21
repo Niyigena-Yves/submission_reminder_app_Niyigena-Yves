@@ -7,12 +7,13 @@ Setup Instructions
 
 1. Clone the repository:
    git clone https://github.com/yourusername/submission_reminder_app_githubusername.git
+   
    cd submission_reminder_app_githubusername
 
-2. Make the environment creation script executable:
+3. Make the environment creation script executable:
 chmod +x create_environment.sh
 
-3. Run the setup script:
+4. Run the setup script:
 ./create_environment.sh
 
 You will be prompted to enter your name
