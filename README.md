@@ -27,10 +27,15 @@ You will be prompted to enter your name
 The script will create a directory named submission_reminder_yourname
 
 submission_reminder_yourname/
+
        app/reminder.sh
+
        modules/functions.sh
+
        assets/submissions.txt
+
        config/config.env
+
        startup.sh
 
 
